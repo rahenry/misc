@@ -1,0 +1,115 @@
+ Dungeon Crawl Stone Soup version 0.17-a0-81-g781747f (console) character file.
+
+0 Zeef the Insei (level 1, 15/15 HPs)
+             Began as a Merfolk Transmuter on Mar 22, 2015.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:08 (18 turns).
+
+Zeef the Insei (Merfolk Transmuter)                   Turns: 18, Time: 00:00:08
+
+Health: 15/15      AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  3/3        EV: 13    Int: 12    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 1 memorised, 3 levels left
+
+rFire  . . .     SeeInvis .       - Unarmed
+rCold  . . .     Clarity  .     c - +0 robe
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: change form in water, swift swim
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+   Skills:
+ + Level 1.1 Fighting
+ + Level 2.6 Dodging
+ + Level 3.2 Unarmed Combat
+ + Level 2.0 Spellcasting
+ + Level 2.6 Transmutations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Trmt           #.....       12%         1    ##.....
+
+
+Inventory:
+
+Missiles
+ b - 12 arrows
+Armour
+ c - a +0 robe (worn)
+Books
+ d - a book of Changes
+Comestibles
+ a - a bread ration {@e1}
+
+
+Message History
+
+Welcome, Zeef the Merfolk Transmuter.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Found a staircase leading out of the dungeon.
+Found an escape hatch in the floor.
+A giant gecko comes into view.
+A giant gecko is nearby!
+Found 11 gold pieces.
+
+       ....
+    .  #.#...#
+    .. #.......
+     .##.#..>#.#
+      .......$. .
+   ####....... ...
+    ........#...
+##.####..#.##.####
+.......l@..........
+##.####..#.##.####
+  .#######.##.#
+  ..........#.#
+  .########.#.#
+          #...#
+          ##..#
+           #..#
+          ##..#
+      #####...###..#
+     ##8.8#..........
+     #.......####..#
+     #......##     #
+    ##......#
+    #8......##
+    #<.......#
+    #8.......#
+    ##.......#
+     #........
+     #.......
+     ##8.8#.
+       ####
+
+
+You could see a giant gecko.
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Zeef, the Merfolk Transmuter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+    18 | D:1      | Quit the game
+
+Vault maps used:
+D:1:      mrwooster_arrival_statue_2

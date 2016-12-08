@@ -1,0 +1,257 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4092-gb8933cd (console) character file.
+
+20 Von Crackerton the Sneak (level 2, -1/13 HPs)
+             Began as a Spriggan Enchanter on Feb 24, 2015.
+             Slain by a giant cockroach (2 damage)
+             ... on level 1 of the Dungeon on Feb 25, 2015.
+             The game lasted 00:04:48 (1256 turns).
+
+Von Crackerton the Sneak (Spriggan Enchanter)       Turns: 1256, Time: 00:04:48
+
+Health: -1/13      AC:  3    Str:  4    XL:     2   Next: 58%
+Magic:  7/7        EV: 18    Int: 16    God:    
+Gold:   5          SH:  0    Dex: 16    Spells: 1 memorised, 5 levels left
+
+rFire  . . .     SeeInvis +     a - +1 dagger
+rCold  . . .     Clarity  .     b - +1 robe
+rNeg   . . .     SustAb   .     (shield restricted)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (gloves unavailable)
+rMut   .         Stasis   .     (boots unavailable)
+MR     .....                    (no amulet)
+Stlth  +++.......               (no ring)
+                                (no ring)
+
+@: very quick, not resistant to hostile enchantments, fairly stealthy
+A: unfitting armour, see invisible, herbivore 3, speed 3, slow metabolism 2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 5 gold pieces.
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are tiny and cannot use many weapons and most armour.
+You have supernaturally acute eyesight.
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+
+
+   Skills:
+ + Level 2.1 Short Blades
+ - Level 3.0 Dodging
+ + Level 5.3 Stealth
+ - Level 2.6 Spellcasting
+ - Level 3.6 Hexes
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ##.....      6%          1    #......
+
+
+Inventory:
+
+Hand weapons
+ a - a +1 dagger (weapon)
+Armour
+ b - a +1 robe (worn)
+Scrolls
+ e - 2 scrolls of identify {unknown}
+ f - a scroll of noise {unknown}
+Potions
+ g - a potion of magic {unknown}
+Books
+ c - a book of Maledictions
+Comestibles
+ d - a bread ration
+
+
+Message History
+
+The giant cockroach bites you but does no damage.
+The giant cockroach misses you.
+The giant cockroach closely misses you.
+The giant cockroach completely misses you.
+The giant cockroach closely misses you.
+The giant cockroach barely misses you.
+The giant cockroach misses you.
+The giant cockroach bites you.
+The giant cockroach misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach closely misses you.
+The giant cockroach bites you.
+You take 2 damage, and have 10/13 hp.
+The giant cockroach completely misses you.
+The giant cockroach closely misses you.
+The giant cockroach closely misses you.
+The giant cockroach completely misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach closely misses you.
+The giant cockroach closely misses you.
+The giant cockroach bites you.
+You take 1 damage, and have 9/13 hp.
+The giant cockroach misses you.
+The giant cockroach completely misses you. x2
+The giant cockroach misses you.
+The giant cockroach completely misses you.
+The giant cockroach closely misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach closely misses you. The giant cockroach misses you.
+The giant cockroach closely misses you.
+The giant cockroach closely misses you.
+The giant cockroach barely misses you.
+The giant cockroach closely misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach bites you.
+You take 1 damage, and have 8/13 hp.
+The giant cockroach barely misses you.
+The giant cockroach completely misses you.
+The giant cockroach barely misses you.
+The giant cockroach misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach bites you.
+You take 2 damage, and have 7/13 hp.
+The giant cockroach closely misses you.
+The giant cockroach barely misses you.
+The giant cockroach completely misses you.
+The giant cockroach waves its antennae.
+The giant cockroach misses you.
+The giant cockroach bites you. The giant cockroach closely misses you.
+You take 1 damage, and have 6/13 hp.
+The giant cockroach bites you but does no damage.
+The giant cockroach barely misses you.
+The giant cockroach completely misses you.
+The giant cockroach closely misses you.
+The giant cockroach misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach closely misses you.
+The giant cockroach closely misses you.
+The giant cockroach misses you.
+The giant cockroach misses you.
+The giant cockroach misses you. The giant cockroach bites you.
+You take 2 damage, and have 4/13 hp.
+The giant cockroach closely misses you.
+The giant cockroach barely misses you.
+The giant cockroach misses you.
+The giant cockroach closely misses you.
+The giant cockroach closely misses you. The giant cockroach misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach bites you but does no damage.
+The giant cockroach misses you.
+The giant cockroach misses you.
+The giant cockroach misses you. The giant cockroach bites you.
+* * * LOW HITPOINT WARNING * * *
+The giant cockroach bites you.
+* * * LOW HITPOINT WARNING * * *
+The giant cockroach closely misses you.
+The giant cockroach closely misses you.
+The giant cockroach completely misses you.
+You take 4 damage, and have 1/13 hp. MASSIVE DAMAGE!!
+The giant cockroach bites you but does no damage.
+The giant cockroach closely misses you.
+The giant cockroach misses you.
+The giant cockroach closely misses you.
+The giant cockroach misses you.
+The giant cockroach closely misses you.
+The giant cockroach closely misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach bites you but does no damage.
+The giant cockroach closely misses you.
+The giant cockroach misses you.
+The giant cockroach misses you.
+The giant cockroach misses you.
+The giant cockroach completely misses you.
+The giant cockroach closely misses you.
+The giant cockroach misses you.
+The giant cockroach barely misses you.
+The giant cockroach bites you but does no damage.
+The giant cockroach bites you but does no damage.
+The giant cockroach bites you.
+You die...
+
+                      ###
+#######################?#
+#.......................#
+#.#####################.###############
+#.#                   #................
+#.#                   #################
+#.#
+#.#
+#.#
+#.#
+#.################                #.#
+#.##.............#                #.#
+#.##.###.$...###.####             #.#
+#.##.# #.....##.....              #.#
+#.##.# #.....##....               #.#
+#.##.# #.....##...                #.###
+#.##.###.....###s##################....
+#.##.#..........@........%.............
+#.##$#>.........................%......
+#.##.#)#########.#####################.
+#.##.#.#       #'#                   #.
+#....#.#       ...                   #.
+######.#      ....#                  #.
+     #.#     .....#                  #.
+     #.#    ......#                  #.
+     #.#   #......#                  #.
+     #.#    ......#                  #.
+     #.#       #.#
+     #.#
+  ####.###
+  #......#
+  #......######
+  #......##...#
+  #......##...#
+  #......##...#####
+  ####.####.......#
+ #####.## #...###.#
+ #.....(###.....#.#
+ #........#.#.#.#)#
+ #........#.#.#.#.#############
+
+
+You could see a giant cockroach.
+
+Vanquished Creatures
+  2 giant geckos (D:1)
+  A ball python (D:1)
+  4 goblins (D:1)
+  2 hobgoblins (D:1)
+  2 kobolds (D:1)
+  3 bats (D:1)
+  A giant newt (D:1)
+15 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Von Crackerton, the Spriggan Enchanter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+   389 | D:1      | HP: 1/9 [hobgoblin/club (3)]
+   711 | D:1      | Reached XP level 2. HP: 13/13 MP: 5/7
+   882 | D:1      | Reached skill level 2 in Short Blades
+   907 | D:1      | Reached skill level 5 in Stealth
+  1237 | D:1      | HP: 1/13 [giant cockroach (2)]
+  1256 | D:1      | Slain by a giant cockroach
+
+Vault maps used:
+D:1:      dpeg_arrival_court
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    53
+ Cast: Corona            ||    15
+ Stab: Sleeping          ||     1
+

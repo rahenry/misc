@@ -1,0 +1,2 @@
+include += HDAItemColors.txt
+include += HDAMessageColors.txt

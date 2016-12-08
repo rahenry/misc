@@ -1,0 +1,190 @@
+ Dungeon Crawl Stone Soup version 0.17-a0-81-g781747f (console) character file.
+
+2 Zeef the Insei (level 1, 11/15 HPs)
+             Began as a Merfolk Transmuter on Mar 22, 2015.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:31 (237 turns).
+
+Zeef the Insei (Merfolk Transmuter)                  Turns: 237, Time: 00:00:31
+
+Health: 11/15      AC:  2    Str: 10    XL:     1   Next: 30%
+Magic:  3/3        EV: 13    Int: 12    God:    
+Gold:   17         SH:  0    Dex: 14    Spells: 1 memorised, 3 levels left
+
+rFire  . . .     SeeInvis .       - Unarmed
+rCold  . . .     Clarity  .     c - +0 robe
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: change form in water, swift swim
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 17 gold pieces.
+
+   Skills:
+ + Level 1.2 Fighting
+ + Level 2.8 Dodging
+ + Level 3.2 Unarmed Combat
+ + Level 2.0 Spellcasting
+ + Level 2.6 Transmutations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Trmt           #.....       12%         1    ##.....
+
+
+Inventory:
+
+Missiles
+ b - 12 arrows
+ e - 21 stones (quivered)
+Armour
+ c - a +0 robe (worn)
+Scrolls
+ f - a scroll of immolation {unknown}
+Books
+ d - a book of Changes   
+   
+    Spells                             Type                      Level
+    a - Beastly Appendage            Transmutation                 1
+    b - Sticks to Snakes             Transmutation                 2
+    c - Spider Form                  Transmutation/Poison          3
+    d - Ice Form                     Ice/Transmutation             4
+    e - Blade Hands                  Transmutation                 5
+Comestibles
+ a - a bread ration {!e}
+
+
+Message History
+
+Unknown command.
+A kobold comes into view. It is wielding a whip.
+The kobold moves out of view.
+The kobold throws a stone. The stone barely misses you.
+A kobold is nearby!
+You grow a pair of large bovine horns.
+The kobold hits you with a whip.
+You take 4 damage.
+You hit the kobold!
+You kill the kobold!
+You start resting.
+Your transformation is almost over.
+You start resting.
+Magic restored.
+You start resting.
+Your horns disappear.
+You start resting.
+HP restored.
+You see here a whip.
+Found a whip.
+You now have 5 gold pieces.
+You now have 17 gold pieces (gained 12).
+A kobold comes into view. It is wielding a dagger.
+The kobold shouts!
+The kobold throws a stone. The stone closely misses you.
+Found a robe.
+You grow a pair of large bovine horns. The kobold hits you with a dagger.
+The kobold closely misses you.
+You take 2 damage.
+You barely miss the kobold. The kobold hits you with a dagger.
+You take 2 damage.
+You closely miss the kobold. The kobold hits you with a dagger.
+You take 1 damage.
+You hit the kobold but do no damage.
+You headbutt the kobold, but do no damage.
+The kobold hits you but does no damage.
+You hit the kobold but do no damage. The kobold closely misses you.
+You closely miss the kobold. You punch the kobold.
+You kill the kobold!
+You start resting.
+Your transformation is almost over.
+Things that are here:
+a dagger; a kobold corpse
+e - 21 stones (gained 1)
+You start resting.
+Your horns disappear.
+Found a robe.
+A hobgoblin comes into view. It is wielding a club.
+A hobgoblin is nearby!
+Are you sure you want to abandon this character and quit the game? (Confirm with "yes".) 
+
+                       #[.
+                       ......
+                     ###..#.#.
+                ..   #.........
+                ..####.#..#.#.#.
+..            .........#.........
+#.#.         ....#.#.#.#..#.#.#.#.
+....  ..    ##.#.#.#.#.#...........
+...###.....##..........#..#.#.#.#..
+.....#.........#.##..#.)...........
+...................................#
+#........................##.##..#.##.
+#.........##.##....#................
+........#.##.##....##....##.....#.##
+..........##........#..#.##.......#
+..........##........#........@...##
+..........##.#.#.#....................
+........#.##........#..#......[......
+........#....#.#.#.......#...........
+.........................#.........g.
+.............#.#.#.... . #..##......
+...#....#............    #..# .....
+........#.#..........    ...  ....
+....................          .
+#..#.#..#.#####.....
+#......#..###  ....#
+.............. ....
+#.##.#.##....#  ..
+..............
+..(......#....
+#++###''##
+.......[.#
+.........#
+.........#
+.........#
+.........#
+.........#
+.........#
+....<....#
+
+
+You could see a hobgoblin (sleeping).
+
+Vanquished Creatures
+  2 kobolds (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Zeef, the Merfolk Transmuter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+   237 | D:1      | Quit the game
+
+Vault maps used:
+D:1:      lemuel_arrival_behind_the_door_large, serial_glass, glass_columns_c,
+          glass_columns_b, glass_columns_b, glass_columns_c, glass_columns_a,
+          glass_columns_c, glass_columns_a, glass_columns_b
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     6
+ Cast: Beastly Appendage ||     2
+

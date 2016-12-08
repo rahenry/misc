@@ -1,0 +1,235 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4092-gb8933cd (console) character file.
+
+Von Crackerton the Sneak (Spriggan Enchanter)       Turns: 1109, Time: 00:04:37
+
+Health: 13/13      AC:  3    Str:  4    XL:     2   Next: 48%
+Magic:  7/7        EV: 18    Int: 16    God:    
+Gold:   5          SH:  0    Dex: 16    Spells: 1 memorised, 5 levels left
+
+rFire  . . .     SeeInvis +     a - +1 dagger
+rCold  . . .     Clarity  .     b - +1 robe
+rNeg   . . .     SustAb   .     (shield restricted)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (gloves unavailable)
+rMut   .         Stasis   .     (boots unavailable)
+MR     .....                    (no amulet)
+Stlth  +++.......               (no ring)
+                                (no ring)
+
+@: very quick, not resistant to hostile enchantments, fairly stealthy
+A: unfitting armour, see invisible, herbivore 3, speed 3, slow metabolism 2
+a: no special abilities
+
+
+You are on level 1 of the Dungeon.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+You have collected 5 gold pieces.
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are tiny and cannot use many weapons and most armour.
+You have supernaturally acute eyesight.
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+
+
+   Skills:
+ + Level 2.1 Short Blades
+ - Level 3.0 Dodging
+ + Level 5.2 Stealth
+ - Level 2.6 Spellcasting
+ - Level 3.6 Hexes
+
+
+You have 5 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ##.....      6%          1    #......
+
+
+Inventory:
+
+Hand weapons
+ a - a +1 dagger (weapon)
+Armour
+ b - a +1 robe (worn)
+Scrolls
+ e - 2 scrolls labeled THREOR URAUPI
+ f - a scroll labeled JEFFI PUTO
+Potions
+ g - a silvery potion
+Books
+ c - a book of Maledictions
+Comestibles
+ d - a bread ration
+
+
+Message History
+
+The ball python is too close now for your liking.
+A ball python is nearby!
+Aim: a ball python (hasn't noticed you, chance 67%)
+The ball python is outlined in light.
+You now have 6/7 mp.
+The ball python misses you. x2
+You hit the ball python. The ball python closely misses you. The ball python grabs you.
+The ball python constricts you.
+You completely miss the ball python. The ball python closely misses you.
+The ball python constricts you.
+You hit the ball python.
+The ball python bites you but does no damage.
+The ball python constricts you.
+You take 1 damage, and have 12/13 hp.
+You hit the ball python.
+The ball python bites you but does no damage.
+The ball python constricts you.
+You take 1 damage, and have 11/13 hp.
+You hit the ball python.
+You kill the ball python!
+Your Stealth skill increases to level 5!
+You start resting.
+Health restored: 13; MP restored: 7
+You see here 14 sling bullets.
+Found a silvery potion.
+Found a stone staircase leading down.
+You see here a silvery potion.
+A kobold comes into view. It is wielding a short sword.
+Aim: a kobold, wielding a short sword (resting, chance 67%)
+The kobold shouts!
+The kobold is outlined in light.
+You now have 6/7 mp.
+A giant gecko comes into view.
+You hit the kobold. The kobold hits you but does no damage.
+You hit the kobold. The kobold stops glowing. The kobold completely misses you.
+You hit the kobold.
+You kill the kobold!
+Found 11 gold pieces.
+Things that are here:
+a short sword; a kobold corpse
+The giant gecko barely misses you.
+MP restored: 7
+Things that are here:
+a short sword; a kobold corpse
+You see here a silvery potion.
+Aim: a giant gecko (clinging, chance 67%)
+The giant gecko is outlined in light.
+You now have 6/7 mp.
+You barely miss the giant gecko. The giant gecko bites you.
+You take 1 damage, and have 12/13 hp.
+You hit the giant gecko but do no damage.
+The giant gecko misses you.
+You hit the giant gecko.
+You kill the giant gecko!
+Okay, then.
+Saving game... please wait.
+Welcome back, Von Crackerton the Spriggan Enchanter.
+You see here a silvery potion.
+You see here a silvery potion.
+g - a silvery potion
+Things that are here:
+a short sword; a kobold corpse
+There is a stone staircase leading down here.
+Found 5 gold pieces.
+MP restored: 7
+You see here 5 gold pieces.
+Found a scroll labeled TEILAX GHIA.
+Health restored: 13
+You see here a scroll labeled TEILAX GHIA.
+Found a gold piece.
+A kobold comes into view. It is wielding a club.
+Firing (i - inventory): No suitable missiles.
+Aim: a kobold, wielding a club
+Okay, then.
+Aim: a kobold, wielding a club (chance 67%)
+The kobold is outlined in light.
+You now have 6/7 mp.
+Found 5 gold pieces.
+You see here a gold piece.
+You closely miss the kobold. The kobold hits you but does no damage.
+You hit the kobold but do no damage.
+You barely miss the kobold. The kobold barely misses you.
+You hit the kobold. The kobold stops glowing. The kobold misses you.
+You miss the kobold. The kobold misses you.
+You closely miss the kobold. The kobold barely misses you.
+You hit the kobold but do no damage.
+You barely miss the kobold. The kobold hits you but does no damage.
+You closely miss the kobold. The kobold barely misses you.
+MP restored: 7
+You hit the kobold. The kobold hits you but does no damage.
+You hit the kobold but do no damage. The kobold barely misses you.
+You hit the kobold.
+You kill the kobold!
+Things that are here:
+a club; a kobold corpse
+You see here a gold piece.
+Okay, then.
+Okay, then.
+Okay, then.
+Saving game... please wait.
+
+##
+?#
+.#
+.#######################
+.......................#
+######################.#
+                     #@#
+                     #)#
+                     #.#
+                     #.#
+                     #.#
+                     #.#
+                     #.#
+                     #.#
+                     #$#
+                     #.#
+
+
+
+
+
+
+
+
+
+                     #.#
+                    ...#
+                    #..##
+                    #....
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A giant gecko (D:1)
+  A ball python (D:1)
+  4 goblins (D:1)
+  2 hobgoblins (D:1)
+  2 kobolds (D:1)
+  3 bats (D:1)
+  A giant newt (D:1)
+14 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Von Crackerton, the Spriggan Enchanter, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+   389 | D:1      | HP: 1/9 [hobgoblin/club (3)]
+   711 | D:1      | Reached XP level 2. HP: 13/13 MP: 5/7
+   882 | D:1      | Reached skill level 2 in Short Blades
+   907 | D:1      | Reached skill level 5 in Stealth
+
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    51
+ Cast: Corona            ||    15
+

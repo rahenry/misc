@@ -1,0 +1,273 @@
+Version: Dungeon Crawl Stone Soup 0.17-a0-81-g781747f
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Command line: crawl
+
+RC options:
+restart_after_game = false
+
+
+Crash caused by signal #15: Terminated
+
+Obtained 15 stack frames.
+crawl(_Z17write_stack_traceP8_IO_FILEi+0x23) [0x611923]: write_stack_trace(_IO_FILE*, int)
+crawl(_Z13do_crash_dumpv+0x353) [0x61b423]: do_crash_dump()
+crawl(_Z20crash_signal_handleri+0x61) [0x611b91]: crash_signal_handler(int)
+/lib/x86_64-linux-gnu/libc.so.6(+0x35180) [0x7fc657f23180]: 
+crawl() [0x807fa0]
+/lib/x86_64-linux-gnu/libc.so.6(+0x35180) [0x7fc657f23180]: 
+/lib/x86_64-linux-gnu/libc.so.6(kill+0x7) [0x7fc657f233d7]: 
+/lib/x86_64-linux-gnu/libncursesw.so.5(+0x19475) [0x7fc658f19475]: 
+/lib/x86_64-linux-gnu/libpthread.so.0(+0xf8d0) [0x7fc6582a68d0]: 
+/lib/x86_64-linux-gnu/libc.so.6(kill+0x7) [0x7fc657f233d7]: 
+crawl(_Z15process_command12command_type+0xf38) [0x82c7c8]: process_command(command_type)
+crawl() [0x82e5f1]
+crawl(main+0x5a5) [0x50a295]: 
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf5) [0x7fc657f0fb45]: 
+crawl() [0x5716ad]
+
+GDB not installed.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.9.1 on Mar 22 2015 at 14:20:22
+Build platform: x86_64-linux-gnu
+Platform: x86_64-linux-gnu
+CFLAGS: -O2 -pipe -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.1 -Irltiles -isystem /usr/include/ncursesw -DTOURNEY='0.16' -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/crawl/"
+LDFLAGS: -rdynamic -fuse-ld=gold -O2 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = rooms, absdepth0 = 0
+Level vaults:
+    moated_graveyard_arrival
+    layout_basic
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker 0 at (49, 39): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Welcome, Zebs the Spriggan Enchanter.
+It is said that the Orb of Zot exists deep within this dungeon, but nobody has ever found it.
+Found 8 gold pieces.
+Found a staircase leading out of the dungeon.
+You now have 8 gold pieces.
+A giant newt comes into view.
+You don't know that spell.
+Firing (i - inventory): No suitable missiles.
+Aim: a giant newt
+Okay, then.
+Unknown command.
+Okay, then.
+Unknown command.
+Aiming: Corona
+Aim: a giant newt (chance 67%)
+The giant newt is outlined in light.
+You hit the giant newt but do no damage.
+The giant newt completely misses you.
+You hit the giant newt.
+You kill the giant newt!
+You start resting.
+Magic restored.
+2 rats come into view.
+Aiming: Corona
+Aim: a rat (chance 67%)
+The rat is outlined in light.
+You barely miss the rat. The rat closely misses you.
+You hit the rat.
+You kill the rat!
+You see here a rat corpse.
+Aiming: Corona
+The rat is outlined in light.
+You hit the rat.
+You kill the rat!
+No target in view!
+You see here a rat corpse.
+You start resting.
+Magic restored.
+Found a stone staircase leading down.
+A goblin comes into view. It is wielding a dagger.
+A goblin is nearby!
+The goblin shouts!
+Aiming: Corona
+Aim: a goblin, wielding a dagger (chance 67%)
+You miscast Corona.
+You are very lightly contaminated with residual magic.
+Your skin glows momentarily.
+Aiming: Corona
+Aim: a goblin, wielding a dagger (chance 67%)
+The goblin is outlined in light. The goblin closely misses you.
+You hit the goblin!
+You kill the goblin!
+Things that are here:
+a dagger; a goblin corpse
+You start resting.
+Magic restored.
+Your magical contamination has completely faded away.
+Found a stone staircase leading down.
+Found a dagger.
+e - a black potion
+A hobgoblin comes into view.
+A hobgoblin is nearby!
+The helpless hobgoblin fails to defend itself.
+You impale the hobgoblin!!!
+You kill the hobgoblin!
+You see here a hobgoblin corpse.
+Found 4 needles of paralysis.
+f - a scroll labeled SAPPORCHUUSM
+A hobgoblin comes into view.
+The hobgoblin shouts!
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_SUSPEND_GAME
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:       [Zebs]
+Species:    Spriggan
+Job:        Enchanter
+
+class_name: Enchanter
+
+HP: 9/9; mods: 0/0
+MP: 4/4; mod: 0
+Stats: 4 (4) 16 (16) 16 (16)
+Position: (21, 24), god: No God (0), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: manual)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   0   |     0    |    0  |      0 | 0/70
+Short Blades    |     X     |   1   |    33    |    1  |     81 | 39/84
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/70
+Axes            |           |   0   |     0    |    0  |      0 | 0/70
+Maces & Flails  |           |   0   |     0    |    0  |      0 | 0/84
+Polearms        |           |   0   |     0    |    0  |      0 | 0/84
+Staves          |           |   0   |     0    |    0  |      0 | 0/84
+Slings          |           |   0   |     0    |    0  |      0 | 0/35
+Bows            |           |   0   |     0    |    0  |      0 | 0/35
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/50
+Throwing        |     X     |   0   |     0    |    0  |      0 | 0/42
+Armour          |     X     |   0   |     0    |    0  |      0 | 0/84
+Dodging         |     X     |   1   |    33    |    3  |    151 | 1/100
+Stealth         |     X     |   1   |    33    |    4  |    293 | 83/105
+Shields         |           |   0   |     0    |    0  |      0 | 0/84
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/70
+Spellcasting    |     X     |   0   |     0    |    2  |    179 | 73/106
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/84
+Hexes           |     X     |   0   |     0    |    3  |    301 | 89/141
+Charms          |           |   0   |     0    |    0  |      0 | 0/25
+Summonings      |           |   0   |     0    |    0  |      0 | 0/70
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/59
+Translocations  |           |   0   |     0    |    0  |      0 | 0/25
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/29
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/70
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/70
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/59
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/59
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/50
+Invocations     |           |   0   |     0    |    0  |      0 | 0/50
+Evocations      |           |   0   |     0    |    0  |      0 | 0/25
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #12: 8
+    #27: 7
+    #49: 14
+    #59: 1
+
+Mutations:
+    see invisible: 1 (innate)
+    herbivore: 3 (innate)
+    speed: 3 (innate)
+    slow metabolism: 2 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #0: +1 dagger
+    eq slot #6, inv slot #1: +1 robe
+
+}}}}}}}}}}}
+
+
+Screenshot:
+                    .
+                 ###.
+                 #...##
+          ####   #.#..#
+           ...    ....##      ###
+           #..     #...#   ## ..#
+           #.#######...####.+...+
+           #...)...#........#...#
+      #    #.......##...#.......#
+      #.####.......###....).>.#####
+    ###............###..#..........
+    ..........................#####
+    ...............##.....#+#...#
+    ########.......##.#...#+#...#   #
+      ######.###...##>#.......###.....
+      #...............##.............?
+      #†###...##...#####.....#######..
+     #....#...#....#####.............
+     #..#.#...#.##............######.
+     #..#.#...#  #.................+
+     #..#.#...#  #.......#..########
+     #..#..@#.#  #..........##
+     #..#...#.#  ##.....†....#
+     #..#g....#   #######†#..#
+     #........#         #.#..#
+     #........#         #.#..#
+     ###......#         #.#..##
+.........?..(.#   .#.####.#...###########
+ ........................................
+ ###....###+#.#.# ##....###.#..########.#
+   #....     .#.   #...........##     #.#
+   #....     .#    #............# #####..
+   .....           #............###......
+    ....           #....###.##...#..≈≈≈≈≈
+       .            ....  #.##.....≈≈.♣..
+                    ...   #.###...≈≈....♣
+                          #.# #..≈≈....<.
+                          #.# #..≈..8....
+                          #.# #..≈.....♣.
+                          #.# #..≈≈......
+                          #.#  ...≈≈....8
+                          #.#  ....≈≈....
+                               .....≈≈≈.≈
+                               ..........
+                                ..#......
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

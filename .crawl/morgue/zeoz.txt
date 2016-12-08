@@ -1,0 +1,87 @@
+ Dungeon Crawl Stone Soup version 0.16-a0-4092-gb8933cd (console) character file.
+
+zeoz the Slasher (Human Berserker)                     Turns: 3, Time: 00:00:04
+
+Health: 18/18      AC:  2    Str: 17    XL:     1   Next: 0%
+Magic:  1/1        EV: 12    Int:  7    God:    Trog [*.....]
+Gold:   0          SH:  0    Dex: 12    Spells: 0 memorised, 0 levels left
+
+rFire  . . .     SeeInvis .     a - +0 falchion
+rCold  . . .     Clarity  .     b - +0 animal skin
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (no helmet)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  +.........               (no ring)
+                                (no ring)
+
+@: not resistant to hostile enchantments, very unstealthy
+A: no striking features
+a: Burn Spellbooks, Berserk, Renounce Religion
+
+
+You are on level 1 of the Dungeon.
+You worship Trog.
+Trog is aware of your devotion.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Hand weapons
+ a - a +0 falchion (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Potions
+ d - a ruby potion
+Comestibles
+ c - a bread ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 3.0 Long Blades
+ + Level 2.0 Armour
+ + Level 2.0 Dodging
+
+
+You cannot memorise any spells.
+You don't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, zeoz the Human Berserker.
+The destiny of this world depends on the Orb of Zot. Go down and get it!
+Trog says: Kill them all!
+Press ? for a list of commands and other information.
+Found a ruby potion.
+Found a staircase leading out of the dungeon.
+d - a ruby potion
+Saving game... please wait.
+
+###+###
+#....@#
+#.....#
+#..<..#
+#######
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | zeoz, the Human Berserker, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+

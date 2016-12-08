@@ -1,0 +1,230 @@
+ Dungeon Crawl Stone Soup version 0.17-a0-81-g781747f (console) character file.
+
+65 Gojo the Conjurer (level 3, -8/26 HPs)
+             Began as a Draconian Conjurer on Mar 23, 2015.
+             Shot with an arrow by a centaur (16 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:04:00 (2203 turns).
+
+Gojo the Conjurer (Draconian Conjurer)              Turns: 2203, Time: 00:04:00
+
+Health: -8/26      AC:  5    Str: 10    XL:     3   Next: 94%
+Magic:  5/8        EV: 12    Int: 16    God:    
+Gold:   29         SH:  0    Dex: 11    Spells: 2 memorised, 5 levels left
+
+rFire  . . .     SeeInvis .     g - +0 spear
+rCold  . . .     Clarity  .     (armour unavailable)
+rNeg   . . .     SustAb   .     (no shield)
+rPois  .         Gourm    .     (helmet restricted)
+rElec  .         Spirit   .     (no cloak)
+rCorr  .         Warding  .     (no gloves)
+rMut   .         Stasis   .     (no boots)
+MR     .....                    (no amulet)
+Stlth  ++........               (no ring)
+                                (no ring)
+
+@: very slightly contaminated, not resistant to hostile enchantments, unstealthy
+A: unfitting armour, cold-blooded, AC +5
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 29 gold pieces.
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your plain brown scales are hard (AC +5).
+Your body does not fit into most forms of armour.
+Your cold-blooded metabolism reacts poorly to cold.
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 3.1 Spellcasting
+ + Level 4.8 Conjurations
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ###.         2%          1    None
+s - Searing Ray           Conj           ###...       4%          2    ##.....
+
+
+Inventory:
+
+Hand weapons
+ g - a +0 spear (weapon)
+ k - a +1 dagger of holy wrath
+   (You found it on level 1 of the Dungeon)
+ l - a +0 whip
+ n - a +2 whip of draining
+   (You found it on level 1 of the Dungeon)
+Missiles
+ d - 35 stones (quivered)
+ m - 2 throwing nets
+Jewellery
+ h - an uncursed amulet of resist mutation {unknown}
+Scrolls
+ a - a scroll of noise {unknown}
+ e - 2 scrolls of recharging {unknown}
+ f - a scroll of fear {unknown}
+ i - a scroll of teleportation {unknown}
+ j - a scroll of immolation {unknown}
+ q - a scroll of identify {unknown}
+Potions
+ p - a potion of curing {unknown}
+Books
+ c - a book of Conjurations   
+   
+    Spells                             Type                      Level
+    a - Magic Dart                   Conjuration                   1
+    b - Searing Ray                  Conjuration                   2
+    c - Dazzling Spray               Conjuration/Hexes             3
+    d - Fulminant Prism              Conjuration/Hexes             4
+    e - Iskenderun's Mystic Blast    Conjuration                   4
+    f - Iskenderun's Battlesphere    Conjuration/Charms            5
+Comestibles
+ b - a bread ration {!e}
+ o - 2 chunks of flesh
+
+
+Message History
+
+The searing ray misses the hobgoblin.
+The hobgoblin hits you but does no damage.
+The searing ray hits the hobgoblin.
+You kill the hobgoblin!
+You start resting.
+Magic restored.
+You see here a hobgoblin corpse.
+A giant cockroach is nearby!
+You see here a hobgoblin corpse.
+You butcher the hobgoblin corpse.
+Things that are here:
+2 chunks of flesh; a hobgoblin skeleton
+A giant cockroach is nearby!
+Aiming: Magic Dart
+Aim: a giant cockroach (clinging)
+The magic dart hits the giant cockroach.
+The giant cockroach is moderately wounded.
+The giant cockroach bites you but does no damage.
+Aiming: Searing Ray
+Aim: a giant cockroach (clinging)
+The searing ray hits the giant cockroach.
+You kill the giant cockroach!
+You start resting.
+Magic restored.
+o - 3 chunks of flesh (gained 2)
+You see here a hobgoblin skeleton.
+You now have 29 gold pieces (gained 2).
+Found 23 sling bullets.
+There is a stone staircase leading up here.
+q - a scroll labeled FRUHOF NIOSCHOY
+A centaur comes into view.
+The centaur shouts!
+The centaur wields a shortbow. The centaur shoots an arrow. The arrow misses you.
+A centaur is nearby!
+Aiming: Magic Dart
+Aim: a centaur, wielding a shortbow
+The magic dart hits the centaur. The centaur shoots an arrow. The arrow hits you.
+You take 3 damage.
+The centaur shoots an arrow. The arrow hits you!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You take 15 damage.
+Aiming: Searing Ray
+Aim: a centaur, wielding a shortbow
+You miscast Searing Ray.
+You are very lightly contaminated with residual magic.
+Your skin glows momentarily. The centaur shoots an arrow. The arrow barely misses you.
+The centaur shoots an arrow. The arrow hits you!
+Ouch! That really hurt!
+You die...
+
+               ###
+               #.#
+        ###    #.###########
+        #.###  #(.@........#
+        #...####c#########.#
+  .######.#..........#   #.#
+  .........(.#.......#####.#
+  ......#....+....<......#.#
+     #.....#.#......#....#.########.#
+     #.............c+...............#
+##.#####.##..#......#.####.#..#######
+...........<.......).......#(.########.#
+########.####..####>....................
+       ####....#  #......................
+          #....####.######.##.##.#####.#
+          #...................##.#####.#
+          ####...........##.####.......#
+             #...........+......########
+             #...........#.####.#
+             #................#.
+             #...........#..#.#.
+             #..............# #.
+             #............### #.
+             #............#    .
+             ############.#
+                  #....÷..#
+                  #.#######
+        ######### #.#
+
+
+You could see a centaur.
+
+Vanquished Creatures
+  A gnoll (D:1)
+  2 adders (D:2)
+  2 giant geckos (D:1)
+  A ball python (D:1)
+  3 giant cockroaches
+  8 hobgoblins
+  6 kobolds
+  A quokka (D:2)
+  2 bats (D:1)
+  A giant newt (D:1)
+  3 goblins (D:1)
+  5 rats (D:1)
+  2 toadstools (D:1)
+37 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 toadstools (D:1)
+2 creatures vanquished.
+
+Grand Total: 39 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Gojo, the Draconian Conjurer, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   392 | D:1      | Reached XP level 2. HP: 17/20 MP: 0/5
+   649 | D:1      | Learned a level 2 spell: Searing Ray
+   977 | D:1      | Reached XP level 3. HP: 26/26 MP: 1/6
+  1770 | D:2      | Reached skill level 3 in Spellcasting
+  2196 | D:2      | Noticed a centaur
+  2203 | D:2      | Shot with an arrow by a centaur
+
+Vault maps used:
+D:1:      ldierk_water_garden
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     4
+       Spear             ||     4
+Throw: Stone             ||     2
+ Cast: Magic Dart        ||    70
+       Searing Ray       ||     6
+  Eat: Chunk             ||     1
+       Bread ration      ||     1
+
